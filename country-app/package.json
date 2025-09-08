@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "javascript setup with tailwindcss and vite",
   "main": "main.js",
-  "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+
+ "scripts": {
+  "start": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "deploy": "gh-pages -d dist"
+},
+
   "keywords": [
     "javascript",
     "base"
@@ -20,5 +23,8 @@
     "@tailwindcss/vite": "^4.1.7",
     "tailwindcss": "^4.1.7",
     "vite": "^6.3.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
