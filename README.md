@@ -1,6 +1,6 @@
 # 🌍 Country App
 
-![Country App Screenshot](images/Country-App.png)
+![Country App Screenshot](country-app/images/Country-App.png)
 
 ## 📖 About this Project
 The **Country App** is a simple yet powerful web application built using **HTML, CSS, JavaScript, and Tailwind CSS**.  
@@ -26,7 +26,7 @@ This app fetches country data from a public API using the **`fetch()` method** a
 - **REST API** (via `fetch()`)  
 
 ## 📸 Screenshot
-![App Preview](images/Country-App.png)
+![App Preview](country-app/images/Country-App.png)
 
 ---
 ✨ Feel free to fork and explore this project!
